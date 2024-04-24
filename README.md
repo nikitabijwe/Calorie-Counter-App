@@ -9,7 +9,7 @@ The Calorie Counter App is a Streamlit application that allows users to upload a
 - 
 ## Installation
 - Clone the repository:
-git clone https://github.com/your-username/calorie-counter-app.git
+git clone https://github.com/nikitabijwe/Calorie-Counter-App.git
 
 - Navigate to the project directory:
 cd calorie-counter-app
