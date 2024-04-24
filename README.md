@@ -34,12 +34,10 @@ streamlit run app.py
 - Google Generative AI: For analyzing images and providing nutritional details.
 - Python: Programming language used for backend logic.
 - PIL (Python Imaging Library): For image processing and manipulation.
-- 
-Credits
-- This app was developed by Nikita Bijwe.
 
 # Demo GIF
 https://github.com/nikitabijwe/Calorie-Counter-App/assets/91217413/73bb5e79-041b-41b7-8c25-b5411aaee333
 
-
+# Credits
+- This app was developed by Nikita Bijwe.
 
