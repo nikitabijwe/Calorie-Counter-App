@@ -36,8 +36,10 @@ streamlit run app.py
 - PIL (Python Imaging Library): For image processing and manipulation.
 
 # Demo GIF
-https://github.com/nikitabijwe/Calorie-Counter-App/assets/91217413/73bb5e79-041b-41b7-8c25-b5411aaee333
+
+https://github.com/nikitabijwe/Calorie-Counter-App/assets/91217413/ea9a0e82-873a-491e-a2c8-646cf11a9937
 
 # Credits
+
 - This app was developed by Nikita Bijwe.
 
