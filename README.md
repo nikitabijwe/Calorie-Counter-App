@@ -37,3 +37,9 @@ streamlit run app.py
 - 
 Credits
 - This app was developed by Nikita Bijwe.
+
+# Demo GIF
+https://github.com/nikitabijwe/Calorie-Counter-App/assets/91217413/73bb5e79-041b-41b7-8c25-b5411aaee333
+
+
+
