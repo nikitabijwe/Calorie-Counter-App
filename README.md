@@ -1,6 +1,8 @@
 # Calorie Counter App
 The Calorie Counter App is a Streamlit application that allows users to upload an image containing food items to calculate total calories and nutritional details. The app utilizes the Google Generative AI API to analyze the image and provide nutritional information for each food item detected.
 
+Deployed at: https://calorie-counter-app.streamlit.app/
+
 ## Features
 - Upload Image: Users can upload an image containing food items.
 - Calculate Calories: The app calculates the total calories and provides nutritional details for each food item detected in the image.
